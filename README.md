@@ -60,10 +60,8 @@ Each record includes features such as:
    jupyter notebook "HUMAN_ACTION_DETECTION.ipynb"
 
  ## 👩‍💻 Author
-**Your Name**  
+**Varanasi Druthi**  
 3rd Year CSE (Data Science), IIIT Nagpur  
-*(Add your LinkedIn or GitHub profile link here)*
-
 ---
 
 ## 📜 License
