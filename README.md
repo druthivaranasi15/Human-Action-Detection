@@ -56,6 +56,23 @@ Each record includes features such as:
 
 ##  How to Run
 1. Open the Jupyter Notebook:
-   ```bash
+   ```bash```
    jupyter notebook "HUMAN_ACTION_DETECTION.ipynb"
+
+ ## 👩‍💻 Author
+**Your Name**  
+3rd Year CSE (Data Science), IIIT Nagpur  
+*(Add your LinkedIn or GitHub profile link here)*
+
+---
+
+## 📜 License
+This project is open-source and available for educational and research purposes.
+
+---
+
+## 🧾 Acknowledgements
+- Inspired by open-source Human Action Recognition datasets and research papers.  
+- Built using Python’s machine learning ecosystem — Scikit-learn, NumPy, Pandas, and Matplotlib.  
+- Special thanks to academic mentors and dataset providers for guidance and support.
 
